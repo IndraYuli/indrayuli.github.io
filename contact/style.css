@@ -1,9 +1,0 @@
-#hover {
-    transform: scale(1);
-    transition: all .20s ease-in;
-}
-
-#hover:hover{
-    transform: scale(1.10);
-    transition: all .20s ease-out;
-}
