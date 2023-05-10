@@ -1,9 +1,0 @@
-#hover {
-    transform: scale(1);
-    transition: .1s;
-}
-
-#hover:hover{
-    transform: scale(1.05);
-    transition: .1s;
-}
